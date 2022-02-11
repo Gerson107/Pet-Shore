@@ -27,7 +27,8 @@ body {
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 h1{
-  color:#d00000;
+  
+  color:#92ad1a;
   font-weight: bold;
 }
 .text-start p{
@@ -115,6 +116,21 @@ main{
   line-height: 1;
   /* rtl:remove */
   letter-spacing: -.05rem;
+}
+
+
+
+.logo{
+  width: 100px;
+}
+
+.color-boton{  
+  background-color: #007f5f !important;
+}
+
+.logo-slider{
+  width: 300px;
+  
 }
 
 
