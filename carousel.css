@@ -23,6 +23,13 @@ body {
   font-family: 'EB Garamond', serif;
 }
 
+.text-sec{
+  font-size: 2em !important;
+}
+
+.text-pp{
+  font-size: 3em !important;
+}
 
 .anclors{
   font-size: 1.5em;
@@ -159,10 +166,14 @@ main{
   .featurette-heading {
     font-size: 50px;
   }
+
 }
 
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
   }
+
+  
 }
+
